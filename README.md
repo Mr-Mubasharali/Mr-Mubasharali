@@ -60,8 +60,7 @@ Aspiring AI/ML Engineer passionate about Python, Data Science, and Machine Learn
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+  
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Mr-Mubasharali">Mr-Mubasharali</a></i></p>
